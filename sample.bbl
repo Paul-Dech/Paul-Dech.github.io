@@ -1,0 +1,191 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{dechamps2024three}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
+           family={Crovato},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=58a044d1dfcb2bcf35725213aee3a7b3}{%
+           family={Dimitriadis},
+           familyi={D\bibinitperiod},
+           given={Grigorios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=051648017dac2ccc81d3243b461f7092}{%
+           family={Terrapon},
+           familyi={T\bibinitperiod},
+           given={Vincent\bibnamedelima E},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf8af28373418917f7e9b889d1a4f96d}
+      \strng{fullhash}{36dcba2218a2032db65e537d2875bcdd}
+      \strng{bibnamehash}{36dcba2218a2032db65e537d2875bcdd}
+      \strng{authorbibnamehash}{36dcba2218a2032db65e537d2875bcdd}
+      \strng{authornamehash}{bf8af28373418917f7e9b889d1a4f96d}
+      \strng{authorfullhash}{36dcba2218a2032db65e537d2875bcdd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AIAA SCITECH 2024 Forum}
+      \field{title}{Three-dimensional pseudo-unsteady viscous-inviscid interaction for wings in transonic flow}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{1947}
+      \range{pages}{1}
+    \endentry
+    \entry{crovato2023aeroelastic}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
+           family={Crovato},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{fullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{bibnamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorbibnamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authornamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorfullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aeroelastic Tailoring Enabled Design-Second intermediate report phase I}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{crovato2023aeroelastic2}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
+           family={Crovato},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{fullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{bibnamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorbibnamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authornamehash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorfullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aeroelastic Tailoring Enabled Design-Second intermediate report phase II}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{dechamps2022master}{manual}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Université de Liège, Liège, Belgique}%
+      }
+      \strng{namehash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{fullhash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{bibnamehash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{authorbibnamehash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{authornamehash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{authorfullhash}{fec43a260ac6593ccb191eefc0014cb6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Master thesis and internship [BR]-Master's thesis: Improvement of the viscous-inviscid interaction method implemented in DARTFLO [BR]-Integration internship}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{dechamps2022pseudo}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=abbf7883b8a7a4c39a9751fbd374ba04}{%
+           family={Bilocq},
+           familyi={B\bibinitperiod},
+           given={Amaury},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
+           family={Crovato},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=58a044d1dfcb2bcf35725213aee3a7b3}{%
+           family={Dimitriadis},
+           familyi={D\bibinitperiod},
+           given={Grigorios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2b3fbea6bdf5f74528c00673dc0eb7fa}{%
+           family={Terrapon},
+           familyi={T\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{05d0028936329c68013fa4689cbe3c4e}
+      \strng{fullhash}{5eea22953daa52e88afe027461bd8ece}
+      \strng{bibnamehash}{5eea22953daa52e88afe027461bd8ece}
+      \strng{authorbibnamehash}{5eea22953daa52e88afe027461bd8ece}
+      \strng{authornamehash}{05d0028936329c68013fa4689cbe3c4e}
+      \strng{authorfullhash}{5eea22953daa52e88afe027461bd8ece}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ACOMEN 2022}
+      \field{title}{Pseudo-unsteady, quasi-simultaneous, two-dimensional interactive boundary layer methodology for preliminary aircraft design}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
