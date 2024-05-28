@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'sample.blg'
-[56] biber-darwin:340> INFO - === Sat May  4, 2024, 15:27:01
-[69] Biber.pm:419> INFO - Reading 'sample.bcf'
-[134] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[145] Biber.pm:4419> INFO - Processing section 0
-[152] Biber.pm:4610> INFO - Looking for bibtex file 'sample.bib' for section 0
-[153] bibtex.pm:1713> INFO - LaTeX decoding ...
-[156] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
-[200] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[201] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[201] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[201] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[205] bbl.pm:660> INFO - Writing 'sample.bbl' with encoding 'UTF-8'
-[207] bbl.pm:763> INFO - Output to sample.bbl
+[34] biber-darwin:340> INFO - === Tue May 28, 2024, 17:30:23
+[42] Biber.pm:419> INFO - Reading 'sample.bcf'
+[81] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[88] Biber.pm:4419> INFO - Processing section 0
+[93] Biber.pm:4610> INFO - Looking for bibtex file 'sample.bib' for section 0
+[93] bibtex.pm:1713> INFO - LaTeX decoding ...
+[95] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
+[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[123] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[123] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[126] bbl.pm:660> INFO - Writing 'sample.bbl' with encoding 'UTF-8'
+[127] bbl.pm:763> INFO - Output to sample.bbl

@@ -1,8 +1,8 @@
-PWD /Users/pauldechamps/lab/papers/cvpaul
+PWD /Users/pauldechamps/lab/papers/Paul-Dech.github.io
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/pauldechamps/lab/papers/cvpaul/sample.tex
+INPUT /Users/pauldechamps/lab/papers/Paul-Dech.github.io/sample.tex
 OUTPUT sample.log
 INPUT ./altacv.cls
 INPUT ./altacv.cls
@@ -1537,9 +1537,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0s
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/typoland/lato/Lato-Bold-T1-TLF.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/google/roboto/RobotoSlab-Bold-tlf-t1.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/google/roboto/RobotoSlab-Bold-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.9)  4 MAY 2024 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.9)  28 MAY 2024 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/pauldechamps/lab/papers/cvpaul/sample.tex
-(/Users/pauldechamps/lab/papers/cvpaul/sample.tex
+**/Users/pauldechamps/lab/papers/Paul-Dech.github.io/sample.tex
+(/Users/pauldechamps/lab/papers/Paul-Dech.github.io/sample.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./altacv.cls
 Document Class: altacv 2023/08/25 AltaCV v1.7.1, yet another alternative class for a resume/curriculum vitae.
@@ -1077,8 +1077,6 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 285.
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 286.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 293.
 [1
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc} <./photo.png>] [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}] (./sample.aux)
@@ -1089,15 +1087,15 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41045 strings out of 476025
- 818798 string characters out of 5790017
- 1888388 words of memory out of 5000000
- 60806 multiletter control sequences out of 15000+600000
- 826817 words of font info for 78 fonts, out of 8000000 for 9000
+ 41035 strings out of 476025
+ 818586 string characters out of 5790017
+ 1885388 words of memory out of 5000000
+ 60797 multiletter control sequences out of 15000+600000
+ 804355 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,10n,120p,1169b,2626s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,10n,120p,1182b,2623s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on sample.pdf (2 pages, 2498228 bytes).
+Output written on sample.pdf (2 pages, 2496955 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
