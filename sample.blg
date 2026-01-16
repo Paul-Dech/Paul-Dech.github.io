@@ -1,15 +1,15 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'sample.blg'
-[34] biber-darwin:340> INFO - === Tue May 28, 2024, 17:30:23
-[42] Biber.pm:419> INFO - Reading 'sample.bcf'
-[81] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[88] Biber.pm:4419> INFO - Processing section 0
-[93] Biber.pm:4610> INFO - Looking for bibtex file 'sample.bib' for section 0
-[93] bibtex.pm:1713> INFO - LaTeX decoding ...
-[95] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
-[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[123] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[123] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[126] bbl.pm:660> INFO - Writing 'sample.bbl' with encoding 'UTF-8'
-[127] bbl.pm:763> INFO - Output to sample.bbl
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'sample.blg'
+[30] biber-darwin:340> INFO - === Fri Jan 16, 2026, 12:07:12
+[38] Biber.pm:420> INFO - Reading 'sample.bcf'
+[70] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[76] Biber.pm:4463> INFO - Processing section 0
+[81] Biber.pm:4654> INFO - Looking for bibtex file 'sample.bib' for section 0
+[81] bibtex.pm:1713> INFO - LaTeX decoding ...
+[83] bibtex.pm:1519> INFO - Found BibTeX data source 'sample.bib'
+[114] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[115] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[115] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[115] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[118] bbl.pm:676> INFO - Writing 'sample.bbl' with encoding 'UTF-8'
+[119] bbl.pm:779> INFO - Output to sample.bbl

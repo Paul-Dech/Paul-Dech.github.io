@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,67 @@
 
 
 \refsection{0}
-  \datalist[entry]{ydnt/global//global/global}
-    \entry{dechamps2024three}{inproceedings}{}
+  \datalist[entry]{ydnt/global//global/global/global}
+    \entry{crovato2024}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
+           family={Crovato},
+           familyi={C\bibinitperiod},
+           given={Adrien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=94f64f3d5321786e67845f814ca7134e}{%
+           family={Dechamps},
+           familyi={D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=429fa858bc80ff69088ff285a22d6e6e}{%
+           family={Prado},
+           familyi={P\bibinitperiod},
+           given={Alex\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8a734499f9cf743bec641875656779b5}{%
+           family={Cabral},
+           familyi={C\bibinitperiod},
+           given={Pedro\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2b3fbea6bdf5f74528c00673dc0eb7fa}{%
+           family={Terrapon},
+           familyi={T\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=58a044d1dfcb2bcf35725213aee3a7b3}{%
+           family={Dimitriadis},
+           familyi={D\bibinitperiod},
+           given={Grigorios},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Florence, Italy}%
+      }
+      \list{publisher}{1}{%
+        {International Council of the Aeronautical Sciences}%
+      }
+      \strng{namehash}{2d21736eea8717b4ccca0dfd9c6c79e2}
+      \strng{fullhash}{5e3997011d5961b05e395b739b040424}
+      \strng{fullhashraw}{5e3997011d5961b05e395b739b040424}
+      \strng{bibnamehash}{5e3997011d5961b05e395b739b040424}
+      \strng{authorbibnamehash}{5e3997011d5961b05e395b739b040424}
+      \strng{authornamehash}{2d21736eea8717b4ccca0dfd9c6c79e2}
+      \strng{authorfullhash}{5e3997011d5961b05e395b739b040424}
+      \strng{authorfullhashraw}{5e3997011d5961b05e395b739b040424}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 34th Congress of the International Council of the Aeronautical Sciences}
+      \field{title}{FAST TRANSONIC CORRECTIONS FOR PANEL METHODS USING VISCOUS-INVISCID INTERACTION}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{eprint}
+      \verb https://orbi.uliege.be/2268/321596
+      \endverb
+    \endentry
+    \entry{dechamps2024three}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=94f64f3d5321786e67845f814ca7134e}{%
            family={Dechamps},
@@ -42,12 +101,15 @@
            given={Vincent\bibnamedelima E},
            giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \strng{namehash}{bf8af28373418917f7e9b889d1a4f96d}
+      \strng{namehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{fullhash}{36dcba2218a2032db65e537d2875bcdd}
+      \strng{fullhashraw}{36dcba2218a2032db65e537d2875bcdd}
       \strng{bibnamehash}{36dcba2218a2032db65e537d2875bcdd}
       \strng{authorbibnamehash}{36dcba2218a2032db65e537d2875bcdd}
-      \strng{authornamehash}{bf8af28373418917f7e9b889d1a4f96d}
+      \strng{authornamehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{authorfullhash}{36dcba2218a2032db65e537d2875bcdd}
+      \strng{authorfullhashraw}{36dcba2218a2032db65e537d2875bcdd}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -59,7 +121,7 @@
       \field{pages}{1947}
       \range{pages}{1}
     \endentry
-    \entry{crovato2023aeroelastic}{manual}{}
+    \entry{crovato2023aeroelastic}{manual}{}{}
       \name{author}{2}{}{%
         {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
            family={Crovato},
@@ -74,10 +136,12 @@
       }
       \strng{namehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{fullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{fullhashraw}{eb217133de949a932f34c1c3288b1b1a}
       \strng{bibnamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authorbibnamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authornamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authorfullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorfullhashraw}{eb217133de949a932f34c1c3288b1b1a}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -87,7 +151,7 @@
       \field{year}{2023}
       \true{nocite}
     \endentry
-    \entry{crovato2023aeroelastic2}{manual}{}
+    \entry{crovato2023aeroelastic2}{manual}{}{}
       \name{author}{2}{}{%
         {{hash=1940bf1cc56ab7094a6f6bc677dabfac}{%
            family={Crovato},
@@ -102,10 +166,12 @@
       }
       \strng{namehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{fullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{fullhashraw}{eb217133de949a932f34c1c3288b1b1a}
       \strng{bibnamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authorbibnamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authornamehash}{eb217133de949a932f34c1c3288b1b1a}
       \strng{authorfullhash}{eb217133de949a932f34c1c3288b1b1a}
+      \strng{authorfullhashraw}{eb217133de949a932f34c1c3288b1b1a}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -115,7 +181,7 @@
       \field{year}{2023}
       \true{nocite}
     \endentry
-    \entry{dechamps2022master}{manual}{}
+    \entry{dechamps2022master}{manual}{}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
@@ -130,10 +196,13 @@
       }
       \strng{namehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{fullhash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{fullhashraw}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{bibnamehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{authorbibnamehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{authornamehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{authorfullhash}{fec43a260ac6593ccb191eefc0014cb6}
+      \strng{authorfullhashraw}{fec43a260ac6593ccb191eefc0014cb6}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -142,7 +211,7 @@
       \field{year}{2022}
       \true{nocite}
     \endentry
-    \entry{dechamps2022pseudo}{inproceedings}{}
+    \entry{dechamps2022pseudo}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=94f64f3d5321786e67845f814ca7134e}{%
            family={Dechamps},
@@ -170,12 +239,15 @@
            given={Vincent},
            giveni={V\bibinitperiod}}}%
       }
-      \strng{namehash}{05d0028936329c68013fa4689cbe3c4e}
+      \strng{namehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{fullhash}{5eea22953daa52e88afe027461bd8ece}
+      \strng{fullhashraw}{5eea22953daa52e88afe027461bd8ece}
       \strng{bibnamehash}{5eea22953daa52e88afe027461bd8ece}
       \strng{authorbibnamehash}{5eea22953daa52e88afe027461bd8ece}
-      \strng{authornamehash}{05d0028936329c68013fa4689cbe3c4e}
+      \strng{authornamehash}{fec43a260ac6593ccb191eefc0014cb6}
       \strng{authorfullhash}{5eea22953daa52e88afe027461bd8ece}
+      \strng{authorfullhashraw}{5eea22953daa52e88afe027461bd8ece}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
